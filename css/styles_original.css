@@ -9,12 +9,12 @@
 
 /* Variáveis */
 :root {
-    --main-color: #3498db;
+    --main-color: #54B689;
     --main-text-color: #FFF;
     --border-color: #999;
     --bio-bg-color: #1E2A3A;
     --bio-border-color: #293544;
-    --about-bg-color: #2c3e50;
+    --about-bg-color: #111821;
 }
 
 
@@ -168,10 +168,6 @@
     padding-top: 20px;
     margin-bottom: 20px;
     font-size: 32px;
-}
-
-.share {
-    color: #FFF;
 }
 
 #skills-container {
