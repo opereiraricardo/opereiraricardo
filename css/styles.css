@@ -91,7 +91,6 @@
     font-size: 30px;
 }
 
-
 #email-container {
     display: flex;
     justify-content: center;
@@ -168,10 +167,6 @@
     padding-top: 20px;
     margin-bottom: 20px;
     font-size: 32px;
-}
-
-.share {
-    color: #FFF;
 }
 
 #skills-container {
